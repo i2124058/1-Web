@@ -1,0 +1,92 @@
+body{
+    background:#f0fff0;
+}
+
+#top{
+    margin-left:33%;
+    
+}
+
+    p.subtitle{
+        color:#ff8ec6;
+        border: thick double #80ffea;
+        width:600px;
+        font-size: 200%;
+        text-align:center;
+        border-radius:100vh;
+        text-shadow:3px 3px 0 #d3d3d3;
+        font-family: 'Zen Maru Gothic', sans-serif;
+    }
+
+    p.meintext{
+        background:rgba(242,194,199,0.5);
+        width:400px;
+        text-align:center;
+        border-radius:100vh;
+    }
+
+#middle{
+    margin-left:33%;
+    max-width:700px;
+}
+
+    h1{
+        color:#006eb0;
+        background: linear-gradient(transparent 50%, #a8eaff 50%);
+        width:250px;
+    }
+
+    #onpu{
+        list-style-type:none;
+        text-align:center;
+        width:50vw;
+        display: inline-block;
+        font-family: 'Kaisei HarunoUmi', serif;
+    }
+
+    #middle li.onpu01 a{
+        image-rendering:center;
+        width:300px;
+        height:300px;
+        line-height:300px;
+        border-radius:100vh;
+        background-image:url(image/onpu_yellow_w.png);
+        background-size:100%;
+        background-position:center;
+        text-decoration:none;
+        display:block;
+        float:left;
+        font-size:400%;
+        color:black;
+        text-shadow:0 0 10px #ffa500;
+    } 
+
+    #middle li.onpu01 a:hover{
+        background-image:url(image/onpu_yellow_r.png);
+        color:#ffffff;
+    }
+
+    #middle li.onpu02 a{
+        margin-right:-15%;
+        image-rendering:center;
+        width:300px;
+        height:300px;
+        line-height:300px;
+        border-radius:100vh;
+        background-image:url(image/onpu_blue_w.png);
+        background-size:100%;
+        background-position:center;
+        text-decoration:none;
+        display:block;
+        float:right;
+        font-size:300%;
+        font-weight:bold;
+        color:black;
+        text-shadow:0 0 5px #20b2aa;       ;
+
+    } 
+
+    #middle li.onpu02 a:hover{
+        background-image:url(image/onpu_blue_r.png);
+        color:#ffffff;
+    }

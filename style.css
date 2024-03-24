@@ -1,0 +1,92 @@
+body{
+    background:#f0fff0;
+}
+  
+    #top{
+        margin-left:33%;
+        max-width:1000px;
+    }
+
+  p.tipe1{
+        color:lightcoral;
+    }
+
+    h2{
+        color:#93c9ff;
+        margin-bottom: -10px;
+    }
+
+    p.tipe2{
+        color:lightcoral;
+        background:#fffff9;
+        text-align:center;
+        border-radius:100vh;
+    }
+
+    #middle{
+        margin-left:33%;
+        max-width:800px;
+    }
+
+    #left{
+        float:left;
+
+    }
+    #right{
+        float:right;
+        margin-left:-13%;
+
+    }
+
+    h3{
+        color:#ff8ec6;
+        text-align:center;
+        margin: auto;
+    }
+    
+
+    h1{
+        color:#ff8ec6;
+        margin-top: 20px;
+        margin-left:5%;
+        font-family: 'Kaisei HarunoUmi', serif;
+
+    }
+
+    ul.list1{
+        width:350px;
+        margin-right:auto;
+        margin-left:auto;
+
+    }
+
+    ul.list2{
+        width:350px;
+        margin-right:auto;
+        margin-left:auto;
+        
+    }
+
+    ul.list3{
+        background:#fffff9;
+        width:350px;
+        margin-right:auto;
+        margin-left:auto;
+        border-radius:100vh;
+        list-style-type:none;
+        
+    }
+
+    .image-header{
+        margin: 0%;
+        width:85%;
+        height:auto;
+        border-radius:100vh;
+    }
+
+    .image-icon{
+        margin-top: 20px;
+        width:80%;
+        height:auto;
+        border-radius:100vh;
+    }
